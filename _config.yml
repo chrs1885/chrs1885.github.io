@@ -118,7 +118,7 @@ exclude:
 
 collections:
   pages:
-    output: false
+    output: true
     permalink: /:path/
 
 # Markdown rendering
