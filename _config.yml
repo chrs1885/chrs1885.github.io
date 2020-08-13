@@ -43,14 +43,14 @@ features                                  :
     fontawesome_icon_name                 : universal-access
 
   - title                                 : Share colors with your team
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+    description                           : Color pairs can be shared with your colleagues as text and images, along with all detail information (color and alpha values, contrast ratio, and WCAG conformance).
     fontawesome_icon_name                 : share-square
 
   - title                                 : RGB, HSB, and HEX
     description                           : Creating a color pair can be done by using RGB, HSB or HEX values.
     fontawesome_icon_name                 : palette
 
-  - title                                 : alpha support
+  - title                                 : Alpha support
     description                           : The WCAG calculation of these values is also supported for semi-transparent text colors.
     fontawesome_icon_name                 : adjust
 
@@ -118,7 +118,7 @@ exclude:
 
 collections:
   pages:
-    output: true
+    output: false
     permalink: /:path/
 
 # Markdown rendering
