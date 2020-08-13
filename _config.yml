@@ -1,0 +1,125 @@
+#page title
+page_title                                : Contrasts - A WCAG color contrast checker # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+
+# App Info
+ios_app_id                                : 1515015989                              # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+
+appstore_link                             :                                         # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+playstore_link                            :                                         # Enter Google Play Store URL.
+presskit_download_link                    :                                         # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+                                                                                    # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
+
+app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_name                                  : Contrasts                               # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : 1.99 €                                  # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : Color contrasts that make the difference – The Contrasts app helps you define text colors that are easy to read even for people with visual impairments.
+
+enable_smart_app_banner                   : true                                     # Set to true to show a smart app banner at top of page on mobile devices.
+
+
+
+# Information About Yourself
+your_name                                 : Christoph Wendt                               
+your_link                                 :                     
+your_city                                 : Karlsruhe                                
+email_address                             : chrs1885@gmail.com
+facebook_username                         :                                           
+instagram_username                        : christophWendt
+twitter_username                          : chr_wendt
+github_username                           : chrs1885
+youtube_username                          :
+
+
+
+# Feature List                            Edit, add or remove features to be presented.
+features                                  :
+
+  - title                                 : Colors for your design projects
+    description                           : Contrasts lets you create and manage color pairs of text and background colors for your design projects.
+    fontawesome_icon_name                 : swatchbook
+    
+  - title                                 : WCAG 2.1 conformance
+    description                           : By calculating the contrast ratio and the resulting WCAG 2.1 conformance level, it is possible to determine whether a text color is readable for people with visual impairments or not.
+    fontawesome_icon_name                 : universal-access
+
+  - title                                 : Share colors with your team
+    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+    fontawesome_icon_name                 : share-square
+
+  - title                                 : RGB, HSB, and HEX
+    description                           : Creating a color pair can be done by using RGB, HSB or HEX values.
+    fontawesome_icon_name                 : palette
+
+  - title                                 : alpha support
+    description                           : The WCAG calculation of these values is also supported for semi-transparent text colors.
+    fontawesome_icon_name                 : adjust
+
+  - title                                 : # New Feature Title
+    description                           : # New Feature Description
+    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+
+
+
+# Theme Settings
+topbar_color                              : "#000000"
+topbar_transparency                       : 0.1
+topbar_title_color                        : "#ffffff"
+
+cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
+cover_overlay_color                       : "#363b3d"
+cover_overlay_transparency                : 0.8
+
+device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+
+body_background_color                     : "#ffffff"
+
+link_color                                : "#1d63ea"
+
+app_title_color                           : "#ffffff"
+app_price_color                           : "#ffffff"
+app_description_color                     : "#ffffff"
+
+feature_title_color                       : "#000000"
+feature_text_color                        : "#666666"
+
+feature_icons_foreground_color            : "#1d63ea"
+feature_icons_background_color            : "#e6e6e6"
+
+social_icons_foreground_color             : "#666666"
+social_icons_background_color             : "#e6e6e6"
+
+footer_text_color                         : "#666666"
+
+
+
+
+
+
+
+
+
+
+
+
+
+####################################################
+### Jekyll Configuration. No need to touch this. ###
+####################################################
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :compressed # You might prefer to minify using :compressed
+
+# Exclude these files from your production _site
+exclude:
+  - LICENSE
+  - README.md
+  - CNAME
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Markdown rendering
+markdown: kramdown
