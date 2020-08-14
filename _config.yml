@@ -46,6 +46,10 @@ features                                  :
     description                           : Color pairs can be shared with your colleagues as text and images, along with all detail information (color and alpha values, contrast ratio, and WCAG conformance).
     fontawesome_icon_name                 : share-square
 
+  - title                                 : iCloud sync
+    description                           : Sync your color pairs across your Apple devices by using iCloud.
+    fontawesome_icon_name                 : cloud-upload-alt
+
   - title                                 : RGB, HSB, and HEX
     description                           : Creating a color pair can be done by using RGB, HSB or HEX values.
     fontawesome_icon_name                 : palette
