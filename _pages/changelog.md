@@ -8,6 +8,14 @@ include_in_header: true
 <br>
 
 ### `Current Release`
+# **Version 1.2**
+* Adds new color picker: select a color by using a color grid, color spectrum, RGB sliders, or HEX values
+* Adds search bar to quickly navigate through color pairs
+* Improves look & feel for iPhone and iPad version
+
+<br>
+
+### `Feature Release`
 # **Version 1.1**
 * Adds optimized version for iPad
 * Displays the HEX values of a color pair on the detail view
