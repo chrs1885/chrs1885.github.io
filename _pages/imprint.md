@@ -9,7 +9,7 @@ include_in_header: false
 
 ## According to § 5 TMG
 Christoph Wendt <br>
-PGerwigstraße 36 <br>
+Gerwigstraße 36 <br>
 76131 Karlsruhe <br>
 
 Email: chrs1885@gmail.com <br>
