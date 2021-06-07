@@ -8,6 +8,12 @@ include_in_header: true
 <br>
 
 ### `Current Release`
+# **Version 1.3**
+* Adds simulation mode for testing color pairs with different color weaknesses and blindnesses
+
+<br>
+
+### `Feature Release`
 # **Version 1.2**
 * Adds new color picker: select a color by using a color grid, color spectrum, RGB sliders, or HEX values
 * Adds search bar to quickly navigate through color pairs
