@@ -12,7 +12,7 @@ Christoph Wendt <br>
 Gerwigstraße 36 <br>
 76131 Karlsruhe <br>
 
-Email: info@contrasts.app <br>
+Email: chrs1885@gmail.com <br>
 Phone: +49 1577/3533860 <br>
 
 <br>
