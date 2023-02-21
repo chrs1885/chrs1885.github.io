@@ -37,7 +37,11 @@ features                                  :
   - title                                 : Colors for your design projects
     description                           : Contrasts lets you create and manage color pairs of text and background colors for your design projects.
     fontawesome_icon_name                 : swatchbook
-    
+  
+  - title                                 : Evaluate website contrasts
+    description                           : Using the integrated browser, color contrasts can be selected and evaluated directly from your web projects.
+    fontawesome_icon_name                 : browser
+
   - title                                 : WCAG 2.1 conformance
     description                           : By calculating the contrast ratio and the resulting WCAG 2.1 conformance level, it is possible to determine whether a text color is readable for people with visual impairments or not.
     fontawesome_icon_name                 : universal-access
@@ -50,17 +54,9 @@ features                                  :
     description                           : Color pairs can be shared with your colleagues as text and images, along with all detail information (color and alpha values, contrast ratio, and WCAG conformance).
     fontawesome_icon_name                 : share-square
 
-  - title                                 : iPad support
-    description                           : The app comes with an optimized version for iPad that lets you organize your color pairs even more comfortable.
-    fontawesome_icon_name                 : tablet-alt
-
   - title                                 : iCloud sync
     description                           : Sync your color pairs across your Apple devices by using iCloud.
     fontawesome_icon_name                 : cloud-upload-alt
-
-  - title                                 : # Alpha support
-    description                           : # The WCAG calculation of these values is also supported for semi-transparent text colors.
-    fontawesome_icon_name                 : # adjust
 
 
 
