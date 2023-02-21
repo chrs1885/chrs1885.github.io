@@ -40,7 +40,7 @@ features                                  :
   
   - title                                 : Evaluate website contrasts
     description                           : Using the integrated browser, color contrasts can be selected and evaluated directly from your web projects.
-    fontawesome_icon_name                 : browser
+    fontawesome_icon_name                 : safari
 
   - title                                 : WCAG 2.1 conformance
     description                           : By calculating the contrast ratio and the resulting WCAG 2.1 conformance level, it is possible to determine whether a text color is readable for people with visual impairments or not.
