@@ -8,6 +8,24 @@ include_in_header: true
 <br>
 
 ### `Current Release`
+# **Version 2.1.0**
+* Supports selecting and evaluating colors from web pages
+
+<br>
+
+### `Bug Fix Release`
+# **Version 2.0.1**
+* Fixes errors that occurred when saving color pairs
+
+<br>
+
+### `Feature Release`
+# **Version 2.0**
+* Includes changes for iOS 16
+
+<br>
+
+### `Feature Release`
 # **Version 1.3**
 * Adds simulation mode for testing color pairs with different color weaknesses and blindnesses
 
